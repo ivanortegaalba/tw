@@ -1,0 +1,11 @@
+thead{
+    border-color: red;
+    border-width: 2;
+    border-style: double;
+    margin:rgb(50,50,50);
+    padding-left: rgb(50,50,50);
+
+}
+tbody{
+    content: none;
+}

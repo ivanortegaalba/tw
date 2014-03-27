@@ -1,0 +1,48 @@
+html{
+    background-image: url(http://ieeesb-uniovi.es/wp-content/uploads/2013/10/html5-css3-js.png);
+    background-color: transparent;
+    background-position: center;
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    
+}
+header{
+    text-align: right;
+}
+
+h1 {
+    color: rgb(50,200,200);
+    background-color: rgb(200,250,250);
+    text-align: center;
+}
+p {
+    align-content: center;
+    font-family:  cursive;
+    font-style: italic;
+    
+    
+}
+h2{
+    font-stretch: extra-expanded;
+    font-variant: small-caps;
+    font-family: monospace;
+    font-size-adjust: auto;
+    align-self: auto;
+}
+h3{
+    font-style: oblique;
+    font-family: monospace;
+}
+h4{
+    font-family: fantasy;
+    text-emphasis: none;
+}
+
+li{
+    list-style-type: none;
+    list-style-position: outside;
+    font-family: sans-serif;
+    text-align: center;
+}
